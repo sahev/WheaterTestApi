@@ -1,0 +1,6 @@
+@WheaterTestApi_HostAddress = http://localhost:5078
+
+GET {{WheaterTestApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
